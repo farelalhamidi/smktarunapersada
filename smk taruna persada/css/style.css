@@ -1,0 +1,101 @@
+.table1 {
+  background-color: white;
+}
+
+body {
+  background-image: linear-gradient(to right top,
+      #051937,
+      #004d7a,
+      #008793,
+      #00bf72,
+      #a8eb12);
+  background-attachment: fixed;
+}
+
+.gambar1 {
+  width: 900px;
+}
+
+.tr1 {
+  font-size: small;
+  background-color: blue;
+  width: 200px;
+}
+
+.td1 {
+  background-color: yellow;
+}
+
+.td2 {
+  background-color: yellow;
+}
+
+.td3 {
+  background-color: yellow;
+}
+
+.td4 {
+  background-color: yellow;
+}
+
+.gambarberanda{
+  width: 150px;
+
+}
+.gambar7 {
+  width: 200px;
+  border: 1px solid yellow;
+  margin: 5px;
+}
+
+.td5 {
+  width: 200px;
+  color: white;
+  background-color: blue;
+}
+
+.p1 {
+  font-size:small;
+
+}
+
+.p2 {
+  font-size: small;
+
+}
+
+.p3 {
+  font-size:small;
+}
+
+
+.p4 {
+  font-size:small;
+}
+
+.P5 {
+  font-size: 13px;
+}
+
+.ul1 {
+  font-size: 13px;
+}
+
+.tr3 {
+  height: 100px;
+}
+
+.pberanda {
+  font-size: small;
+}
+.berita{
+  padding: 10px;
+}
+.tdvisi{
+ padding: 8px;
+ margin: 2px ;
+}
+  .beranda{
+    height: 55vh;
+
+  }
